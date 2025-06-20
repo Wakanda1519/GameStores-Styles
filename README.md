@@ -7,8 +7,6 @@
 GameStores Styles - это проект, направленный на улучшение пользовательского интерфейса и функциональности ваших донат магазинов
 
 ![Интерфейс GameStores](https://i.postimg.cc/GpCRbDFt/1111111.png)   
-![Интерфейс GameStores](https://i.postimg.cc/9MzJKWxb/5.png)   
-![Интерфейс GameStores](https://i.postimg.cc/bw8L80Cs/7.png)
 
 ## Инструкция по установке
 
