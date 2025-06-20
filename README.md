@@ -2,8 +2,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-## Интерфейс
-
 GameStores Styles - это проект, направленный на улучшение пользовательского интерфейса и функциональности ваших донат магазинов
 
 ![Интерфейс GameStores](https://i.postimg.cc/GpCRbDFt/1111111.png)   
