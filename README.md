@@ -42,6 +42,11 @@ https://allwebs.ru
 ```url
 https://gspics.org
 ```
+Где брать картинки предметов для описания товаров?
+```url
+https://www.rustedit.io/images/imagelibrary/{shortname}.png
+```
+`shortname` - имя предмета в игре, к примеру code.lock
 
 ## Баги и недоработки
 Если вы что то нашли во время использования, обращаться в тг - https://t.me/wakanda1519, исправлю
