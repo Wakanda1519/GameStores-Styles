@@ -49,6 +49,10 @@ https://www.rustedit.io/images/imagelibrary/{shortname}.png
 ## Баги и недоработки
 Если вы что то нашли во время использования, обращаться в тг - https://t.me/wakanda1519, исправлю
 
-## Ещё не много инрефейса
+## Интерфейс
 
-![Интерфейс GameStores](https://i.postimg.cc/9MzJKWxb/5.png)  
+![Интерфейс GameStores](https://i.postimg.cc/9MzJKWxb/5.png)   
+![Интерфейс GameStores](https://i.postimg.cc/GtKNnMFJ/6.png) 
+![Интерфейс GameStores](https://i.postimg.cc/bw8L80Cs/7.png)
+![Интерфейс GameStores](https://i.postimg.cc/VL0B80s3/1.png)
+![Интерфейс GameStores](https://i.postimg.cc/Vvxt64s2/4.png)
