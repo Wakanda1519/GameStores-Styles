@@ -4,7 +4,7 @@
 
 ## Интерфейс
 
-![Интерфейс GameStores]([https://i.postimg.cc/GpCRbDFt/1111111.png)
+![Интерфейс GameStores](https://i.postimg.cc/GpCRbDFt/1111111.png)
 
 GameStores Styles - это проект, направленный на улучшение пользовательского интерфейса и функциональности ваших донат магазинов
 
