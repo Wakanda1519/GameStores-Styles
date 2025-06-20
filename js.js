@@ -1,10 +1,10 @@
 const event = new CustomEvent("setCustomConfig");
   
-window.productsGrid = 4;                // Количество товаров в строке
+window.productsGrid = 4;                 // Количество товаров в строке
 window.oldDesignDropdownProduct = false; // true - включает, false - выключает старе отображение в выпадающем списке товара
-window.currency = "₽";                  // Валюта
-window.defaultPaymentAmount = 100;      // Сумма по умолчанию в поле ввода суммы пополнения
-window.zeroToFree = true;               // true - включает, false - выключает отоброжние вмето нуля слово "Бесплатно"
+window.currency = "₽";                   // Валюта
+window.defaultPaymentAmount = 100;       // Сумма по умолчанию в поле ввода суммы пополнения
+window.zeroToFree = true;                // true - включает, false - выключает отоброжние вмето нуля слово "Бесплатно"
   
 window.dispatchEvent(event);
 
