@@ -643,11 +643,6 @@ body {
     .container {
         width: auto;
     }
-
-    .boxHeader {
-        justify-content: space-between;
-        display: none;
-    }
 }
 
 @media (max-width: 980px) {
