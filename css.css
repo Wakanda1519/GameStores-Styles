@@ -71,7 +71,8 @@ body {
 .TotalSum-module__currency,
 .TotalSum-module__inputWrapper,
 .CountSelector-module__inputWrapper,
-.PlayerMenuMobile-module__profileLink {
+.PlayerMenuMobile-module__profileLink,
+.dropDownCurrentItem {
     border-radius: var(--default-border-radius);
 }
 
@@ -637,6 +638,11 @@ body {
     background-color: transparent !important;
     display: flex;
     justify-content: center;
+}
+
+.CountSelector-module__changeCountBtn.CountSelector-module__left,
+.CountSelector-module__changeCountBtn.CountSelector-module__right {
+    border-radius: var(--default-border-radius);
 }
 
 @media (max-width: 1310px) {
