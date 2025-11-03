@@ -102,7 +102,9 @@ body {
 .SelectContent-module__footer.boxFooter {
     gap: var(--safe-padding);
 }
-
+.KitContent-module__footer.boxFooter {
+    gap: var(--safe-padding);
+}
 .ProductModal-module__command, 
 .ProductModal-module__bp, 
 .ProductModal-module__item, 
