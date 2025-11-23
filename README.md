@@ -97,6 +97,12 @@ https://www.rustedit.io/images/imagelibrary/{shortname}.png
 
 ---
 
+## 📄 Лицензия
+
+MIT License. Делайте с кодом что хотите, это Open Source.
+
+---
+
 ## 📸 Галерея
 
 ![Интерфейс GameStores](https://i.postimg.cc/9MzJKWxb/5.png)   
