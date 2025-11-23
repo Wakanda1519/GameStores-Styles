@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
 [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=flat-square&logo=telegram)](https://t.me/wakanda1519)
 
-**GameStores Styles** — это набор скриптов и стилей, превращающий стандартный шаблон магазина в современный, отзывчивый и уникальный интерфейс. Проект полностью Open Source.
+**GameStores Styles** — это стиль, превращающий стандартный стиль магазина в современный, отзывчивый и уникальный интерфейс. Проект полностью Open Source.
 
 ![Main Interface](https://i.postimg.cc/GpCRbDFt/1111111.png)
 
